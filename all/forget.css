@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+div{
+    background-color: white;
+    width:30%;
+    margin:auto;
+    margin: 100px;
+    text-align: center;
+    padding: 50px;
+    border-radius:12px;
+}
+body{
+    background-color: aliceblue;
+}
+input{
+    display: block;
+    padding: 10px;
+    width: 95%;
+    font-size: 15px;
+    border: 1px solid rgb(204, 197, 197);
+    border-radius: 10px;
+    outline: 0;
+}
+p a{
+    font-size: 20px;
+    text-decoration: none
+    ;
+    
+    background-color:rgb(204, 197, 197) ;
+    color: black;
+    border-radius: 5px;
+    width:40%;
+    outline:50px;
+    padding: 5px;
+    text-align: center;
+}
+#see{
+    background-color: rgb(0, 119, 255);
+    color: white;
+    font-size: 20px;
+}
